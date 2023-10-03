@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style type="text/css">
+   
+    </style>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+  </head>
+  <!-- <body style="background-image: url(https://wallpapercave.com/wp/wp2599594.jpg);"> -->
+  <body>
+    <h1 style="text-align: center"></h1>
+    <div>
+      <form style="position: relative; left: 500px">
+        <!-- <p align ="center"><img src="https://1000logos.net/wp-content/uploads/2016/11/fb-logo.jpg" alt="Facebook_image" width="100px" target="main" ></p>  -->
+
+        <!-- <img class="fb_logo _8ilh img" src="https://static.xx.fbcdn.net/rsrc.php/y8/r/dF5SId3UHWd.svg" alt="Facebook"> -->
+        <h1 >
+          Admission Form
+          <a
+            href="https://www.reviewadda.com/institute/article/123/college-application-forms"
+            target="_blank"
+          >
+            <img
+              src="https://www.clipartkey.com/mpngs/m/116-1169087_admission-icon-png.png"
+              alt="img_gif"
+              width="30px"
+              style="font-size: 50px;"
+          /></a>
+        </h1>
+        <hr color="black" />
+
+        <lebel for="fname">Full Name</lebel><br />
+        <input
+          type="text"
+          id="fname"
+          name="Fname"
+          placeholder="First Name"
+          style="height: 30px"
+          style="width: 180px"
+        />
+        <label for="lname"></label>
+        <input
+          type="text"
+          id="lname"
+          name="lname"
+          placeholder="Last Name"
+          style="height: 30px"
+          style="width: 180px"
+        />
+        <br />
+
+        <label for="Phone"></label><br />
+        <input
+          type="text"
+          id="lname"
+          name="lname"
+          value="+91"
+          placeholder="Phone Number"
+          style="height: 30px"
+          style="width: 180px"
+        />
+
+        <label for="mail"></label>
+        <input
+          type="email"
+          id="lname"
+          name="lname"
+          placeholder="Email"
+          style="height: 30px"
+          style="width: 180px"
+        />
+        <br />
+
+        <label for="Password"></label><br />
+        <input
+          type="password"
+          id="lname"
+          name="lname"
+          pattern="[0-9]{3}"
+          placeholder="Password"
+          style="height: 30px"
+          style="width: 180px"
+        />
+
+        <input
+          type="password"
+          name="password"
+          placeholder="Renter-Password"
+          style="height: 30px"
+          style="width: 300px"
+        />
+        <br />
+        <label for="birhtday"></label><br />
+        <input
+          type="date"
+          id="birthday"
+          name="birthday"
+          style="height: 30px"
+          style="width: 180px"
+        />
+        <br />
+        <br />
+        <label for="Gender">Male</label>
+        <input type="radio" id="gender" name="gender" value="Male" />
+
+        <label for="Gender">Female</label>
+        <input type="radio" id="gender" name="gender" value="Female" />
+        <br /><br />
+
+        <label>Admission for</label>
+        <select>
+          <option value="Bca">BCA</option>
+          <option value="Mca">MCA</option>
+          <option value="Bsc">BSC</option>
+          <option value="Msc">MSC</option>
+          <option value="Mba">MBA</option>
+        </select>
+        <br /><br />
+        <label for="Corses">Choose Mendatory Subject</label><br />
+        <label for="java">Java</label>
+        <input type="checkbox" name="Java" />
+        <label for="java">Python</label>
+        <input type="checkbox" name="Python" />
+        <label for="java">.Net</label>
+        <input type="checkbox" name=".Net" />
+        <br />
+        <br />
+        <fieldset>
+          <br />
+          <br />
+          <label>Adimission date & time</label>
+          <input type="datetime-local" name="datetime-local" />
+          <br />
+          <br />
+          <label>Admission Week & Month</label>
+          <input type="week" name="datetime-local" />
+          <br />
+          <br />
+          <label>Admission Week & Month</label>
+          <input type="week" name="datetime-local" />
+        </fieldset>
+        <br />
+        <br />
+        <br />
+        <input
+          type="submit"
+          value="submit"
+          style="width: 70px"
+          style="height: 20px"
+        />
+        <img src="C:\Users\saida\Downloads/OIP__3_sketch" alt="" />
+      </form>
+    </div>
+  </body>
+</html>
