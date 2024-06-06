@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Selenium WebDriver, TestNG, Maven, Data Driven framework.**
 
 - 📫 How to reach me **saidattbodakhesfdc@gmail.com**
+- <a href="file:///C:/Users/saida/Downloads/Saidatt_ResumeH.pdf"</a>
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
