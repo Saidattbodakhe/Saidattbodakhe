@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Selenium WebDriver, TestNG, Maven, Data Driven framework.**
 
 - 📫 How to reach me **saidattbodakhesfdc@gmail.com**
-- <a href="file:///C:/Users/saida/Downloads/Saidatt_ResumeH.pdf">My_Resume</a>
+- <a href="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif">My_Resume</a>
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
