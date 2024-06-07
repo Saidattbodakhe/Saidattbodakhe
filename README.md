@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am funny.**
 
-- <a href="https://drive.google.com/file/d/1NyMGYTZqLsMrynyPdQKIAZ84b2OnAYoM/view?usp=drivesdk">My_Resume</a>
+- <a href="https://drive.google.com/file/d/1NyMGYTZqLsMrynyPdQKIAZ84b2OnAYoM/view?usp=drivesdk">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
