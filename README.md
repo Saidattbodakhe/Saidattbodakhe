@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saidatt Bodakhe</h1>
-<h3 align="center">A passionate Software Testing from India</h3>
+<h3 align="center">A passionate Software Testing and Development from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidattbodakhe&label=Profile%20views&color=0e75b6&style=flat" alt="saidattbodakhe" /> </p>
 
-- 🌱 I’m currently learning **Selenium WebDriver, TestNG, Maven, Data Driven framework.**
+- 🌱 I’m completed **Manual Testing, Automation Testing in Selenium WebDriver, TestNG, Maven, Data Driven framework.**
 
 - 📫 How to reach me **saidattbodakhesfdc@gmail.com**
 
