@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidattbodakhe&label=Profile%20views&color=0e75b6&style=flat" alt="saidattbodakhe" /> </p>
 
 - 🌱 I’m completed **Manual Testing, Automation Testing in Selenium WebDriver, TestNG, Maven, Data Driven framework.**
+  
 -   Working **Zoho Developer.**
+  
 - 📫 How to reach me **saidattbodakhesfdc@gmail.com**
 
 <img align ="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
