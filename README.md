@@ -5,7 +5,7 @@
 
 - 🌱 I’m completed **Manual Testing, Automation Testing in Selenium WebDriver, TestNG, Maven, Data Driven framework.**
   
--   Working **Zoho Developer.**
+-  <a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by surang - Flaticon</a> Working **Zoho Developer.**
   
 - 📫 How to reach me **saidattbodakhesfdc@gmail.com**
 
